@@ -3,7 +3,7 @@ guid: 5bce718588f22d94694cc0d29e16a772
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,7 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -349,16 +348,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Mossy - FloatingPlatforms_0: 919178385
-      Mossy - FloatingPlatforms_1: 922389442
-      Mossy - FloatingPlatforms_2: 2046089609
-      Mossy - FloatingPlatforms_3: -1905462494
       Mossy - FloatingPlatforms_4: 467752101
-      Mossy - FloatingPlatforms_5: 537621303
       Mossy - FloatingPlatforms_6: -1233932568
       Mossy - FloatingPlatforms_7: -903750380
-      Mossy - FloatingPlatforms_8: -1513138126
+      Mossy - FloatingPlatforms_1: 922389442
       Mossy - FloatingPlatforms_9: 524585380
+      Mossy - FloatingPlatforms_2: 2046089609
+      Mossy - FloatingPlatforms_0: 919178385
+      Mossy - FloatingPlatforms_3: -1905462494
+      Mossy - FloatingPlatforms_5: 537621303
+      Mossy - FloatingPlatforms_8: -1513138126
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
